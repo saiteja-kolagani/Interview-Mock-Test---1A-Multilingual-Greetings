@@ -1,0 +1,19 @@
+.lang-button {
+  width: 100px;
+  padding: 6px;
+  border-radius: 16px;
+  border: 2px solid darkred;
+  background-color: transparent;
+  color: darkred;
+  cursor: pointer;
+}
+
+.lang-button-active {
+  width: 100px;
+  padding: 6px;
+  border-radius: 16px;
+  background-color: darkred;
+  color: white;
+  cursor: pointer;
+  border: 2px solid darkred;
+}
